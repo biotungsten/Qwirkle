@@ -1,6 +1,6 @@
 # Copyright (c) 2021 David Sauer
 
-from .utils.visualisation import stone
+from utils.visualisation import stone
 import copy
 
 SYMBOLS = ["✷", "◆", "✣", "✚", "●", "■"]
